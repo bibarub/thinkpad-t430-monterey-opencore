@@ -1,0 +1,1 @@
+# thinkpad-t430-monterey-opencore
